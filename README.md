@@ -30,7 +30,7 @@ To update:
 
 * run `npm update gonzales`
 
-To uninstall:
+To uninstall:ok
 
 * run `npm uninstall gonzales -g`
 
