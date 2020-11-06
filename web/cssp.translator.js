@@ -97,5 +97,5 @@ function csspToSrc(tree, hasInfo) {
         }
     };
 
-    return _t(tree);
+    return _t(tree)
 }
